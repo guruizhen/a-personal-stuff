@@ -30,8 +30,6 @@ public class TestPractice {
         // 11. Assert the Price of the item as "10".
         // 12. Click the "delete" button at the bottom of the item's view then click "OK".
         // 13. Use "press back" action to go back to home page.
-
-        UiDevice device = UiDevice.getInstance(getInstrumentation());
     }
 
 }
