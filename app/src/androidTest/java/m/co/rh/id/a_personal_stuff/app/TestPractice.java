@@ -23,13 +23,12 @@ public class TestPractice {
         // 4. Enter "10" in the "Price" field.
         // 5. Click "Expired date time" and select 31 January 2023 then click "OK".
         // 6. Click the "save" icon in the bottom right corner.
-        // 7. Click the "menu" icon in the top left corner next to "Home".
-        // 8. Click "Items".
+        // 7. Swipe from left to right on the home page to open the menu.
+        // 8. Click "Items" on the menu.
         // 9. Assert the name of the item as "Cookie".
         // 10. Assert the Amount of the item as "1".
         // 11. Assert the Price of the item as "10".
         // 12. Click the "delete" button at the bottom of the item's view then click "OK".
         // 13. Use "press back" action to go back to home page.
     }
-
 }
